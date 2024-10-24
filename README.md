@@ -18,4 +18,4 @@ The assignment will address the following module learning outcomes:
 * MO2: Develop data analysis processes to identify and analyse a variety of cyber security threats.
 * MO3: Demonstrate practical skills that address a clear career path into technical aspects of cyber security.
 
-Please see the guidance in the Assignment Specification document that is available on Blackboard.
+Please see the guidance in the Assignment Specification document that is available on Moodle.
